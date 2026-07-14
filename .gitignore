@@ -1,0 +1,3 @@
+build/
+pm_recovery_debug
+*.log
