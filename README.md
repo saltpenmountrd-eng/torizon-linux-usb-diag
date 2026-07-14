@@ -1,5 +1,7 @@
 # pm_recovery_debug
 
+> 繁體中文說明請見 [README.zh-TW.md](README.zh-TW.md)。
+
 USB disconnect detection & recovery diagnostic tool for **Torizon Embedded
 Linux** on Toradex **i.MX8M Plus** SOMs, built to debug **PenMount PM171x**
 USB touch controller (`VID=0x14E1 PID=0x3508`) dropouts observed during
